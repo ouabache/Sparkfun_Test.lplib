@@ -1,6 +1,6 @@
 (librepcb_library 095a237b-37bf-4730-b35b-4ece29531846
  (name "Sparkfun_Test")
- (description "")
+ (description "kicad conversion test lib\nExperimental, do not use\nReleased under CC-BY-SA 4.0 License")
  (keywords "")
  (author "John Eaton")
  (version "0.1")
