@@ -1,0 +1,31 @@
+(librepcb_component cb751a77-a27b-4191-9df5-317dc57859c2
+ (name "~6400BG_HEATSINK")
+ (description "created from file---  ./sparkfun_hardware/F~6400BG_HEATSINK.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 91fd5433-908a-40e8-9af2-a96101757cca)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 9c776bb3-7c47-4f81-ab09-078be879c04d (norm "")
+  (name "default")
+  (description "")
+  (gate c579cd0f-3398-4cef-a3c7-cf435bbd6fab
+  (symbol 2f93433a-92f4-4d6e-aa98-e146686208ee)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 50c2e11f-d4de-46d2-adb5-4869c2d3da61 (norm "")
+  (name "kicad")
+  (description "")
+  (gate d7331272-ff19-4d4b-a149-4e9c665ad3df
+  (symbol cd2eb24d-fb04-4c10-a642-6ce8b74347bc)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

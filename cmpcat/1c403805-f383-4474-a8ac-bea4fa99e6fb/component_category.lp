@@ -1,0 +1,10 @@
+(librepcb_component_category 1c403805-f383-4474-a8ac-bea4fa99e6fb
+ (name "Aesthetics")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:16:29Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

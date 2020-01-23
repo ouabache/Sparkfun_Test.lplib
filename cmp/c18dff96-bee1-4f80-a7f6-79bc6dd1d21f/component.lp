@@ -1,0 +1,31 @@
+(librepcb_component c18dff96-bee1-4f80-a7f6-79bc6dd1d21f
+ (name "MAGNET")
+ (description "created from file---  ./sparkfun_hardware/FMAGNET.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 91fd5433-908a-40e8-9af2-a96101757cca)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 18b92659-7b95-4381-b5cd-fbdf3b617ce4 (norm "")
+  (name "default")
+  (description "")
+  (gate fe068d94-80a8-48e0-adf0-7fd308115c78
+  (symbol 8879b13e-d6d8-4ef7-9ed9-75e42111b666)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant a677ecbf-48c2-4645-b3a6-ec94a41cdfa5 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 8cdfe8bb-0fdd-4c3e-ac50-0bc59ca66347
+  (symbol 991a48fe-2499-407e-af85-1319cfc1c47f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

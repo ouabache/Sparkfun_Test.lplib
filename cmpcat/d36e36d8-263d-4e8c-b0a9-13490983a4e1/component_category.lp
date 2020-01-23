@@ -1,0 +1,10 @@
+(librepcb_component_category d36e36d8-263d-4e8c-b0a9-13490983a4e1
+ (name "Clocks")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:13:29Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

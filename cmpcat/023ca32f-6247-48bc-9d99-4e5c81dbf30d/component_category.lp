@@ -1,0 +1,10 @@
+(librepcb_component_category 023ca32f-6247-48bc-9d99-4e5c81dbf30d
+ (name "RF")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:17:56Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

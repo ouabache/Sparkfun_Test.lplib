@@ -1,0 +1,10 @@
+(librepcb_library 095a237b-37bf-4730-b35b-4ece29531846
+ (name "Sparkfun_Test")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:04:57Z)
+ (deprecated false)
+ (url "")
+)

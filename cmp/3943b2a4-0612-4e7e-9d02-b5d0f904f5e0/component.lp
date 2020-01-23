@@ -1,0 +1,31 @@
+(librepcb_component 3943b2a4-0612-4e7e-9d02-b5d0f904f5e0
+ (name "~FIDUCIAL1X2")
+ (description "created from file---  ./sparkfun/F~FIDUCIAL1X2.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 00da7ab7-1596-4f25-9397-536c815998d2 (norm "")
+  (name "default")
+  (description "")
+  (gate da9704e6-ba9a-4dd4-8d08-7e480399f814
+  (symbol f1ab6de0-f481-467c-8477-f8169b1decee)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 1940d94b-f784-49da-b3ff-af2a96d9306d (norm "")
+  (name "kicad")
+  (description "")
+  (gate c782fcd0-7cdc-41ce-8fca-c87683b2cc8c
+  (symbol 21d96ac1-c67e-4453-b867-07e818e21daf)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

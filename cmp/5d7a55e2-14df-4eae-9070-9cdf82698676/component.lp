@@ -1,0 +1,31 @@
+(librepcb_component 5d7a55e2-14df-4eae-9070-9cdf82698676
+ (name "~BREADBOARD_PATTERN")
+ (description "created from file---  ./sparkfun/F~BREADBOARD_PATTERN.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 35adf4c3-bc1a-426d-ba4f-46f2de7aa393 (norm "")
+  (name "default")
+  (description "")
+  (gate dfb176ae-2b87-4455-aee2-e4bc1e6b4d21
+  (symbol c903a3e0-3e02-4de1-803c-ef7fdbaa29b5)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 34baa2a2-dc9b-43cf-bfd0-a1c0768b27d0 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 56fe095c-a1ed-4b38-aed0-1f26c80d2d31
+  (symbol 1ebcbf74-3141-404c-923e-fe26423bff6f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

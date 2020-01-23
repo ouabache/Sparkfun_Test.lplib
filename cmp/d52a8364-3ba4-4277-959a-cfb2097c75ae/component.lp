@@ -1,0 +1,31 @@
+(librepcb_component d52a8364-3ba4-4277-959a-cfb2097c75ae
+ (name "~SPARKPUNK_LOGO.2_INCH_TALL")
+ (description "created from file---  ./sparkfun/F~SPARKPUNK_LOGO.2_INCH_TALL.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 7cd05fa4-4bda-40f7-9fd5-ce177b2e2ff3 (norm "")
+  (name "default")
+  (description "")
+  (gate c9409cff-0f24-4272-a78c-9eaad70cdd48
+  (symbol f82975ca-a2bd-41a3-8132-b16d5d81955f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant f30be791-f4ef-453a-b414-6e1c3116ea64 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 064b7af0-43cd-4f69-87d2-450574b25762
+  (symbol 4b2b2357-d726-4605-9f74-4f58bcc4079a)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

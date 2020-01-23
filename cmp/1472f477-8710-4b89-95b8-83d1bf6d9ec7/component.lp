@@ -1,0 +1,31 @@
+(librepcb_component 1472f477-8710-4b89-95b8-83d1bf6d9ec7
+ (name "~LIPO-OUTLINE100")
+ (description "created from file---  ./sparkfun_batteries/F~LIPO-OUTLINE100.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category b33a8b7e-ba72-4d5b-a3fb-c7c53af5c6c6)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant bda44b04-c6ab-4cca-9589-d0c98c5b66d7 (norm "")
+  (name "default")
+  (description "")
+  (gate 3b386cb4-9b64-447e-8690-71683ca4dbca
+  (symbol 96292f13-5e79-4f6a-8aef-e5b22737f379)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 449141d2-867b-4503-bf0b-6de4a973e806 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 1587b3e4-11dd-4cf0-87ea-df6c11f89f3b
+  (symbol 5d0030fb-2197-4e50-98d0-8cd74b2f170b)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

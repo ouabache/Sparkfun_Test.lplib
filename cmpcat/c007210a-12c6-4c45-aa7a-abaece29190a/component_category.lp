@@ -1,0 +1,10 @@
+(librepcb_component_category c007210a-12c6-4c45-aa7a-abaece29190a
+ (name "Power")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:11:32Z)
+ (deprecated false)
+ (parent cfe79e21-134e-465f-9329-e93f5fe322bb)
+)

@@ -1,0 +1,31 @@
+(librepcb_component d8b9e940-9f87-430e-a877-ae306bc3ca47
+ (name "~IOIO-OTG-LOGO")
+ (description "created from file---  ./sparkfun/F~IOIO-OTG-LOGO.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 9b5350b3-93ad-4b3c-904b-c9ed564c778a (norm "")
+  (name "default")
+  (description "")
+  (gate f4136c32-03e4-41b7-9fd4-17e3250102d5
+  (symbol 04f66ee0-d126-4211-891d-ad4cfa4a8d42)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 63768dab-0119-487e-82e6-2e711defe513 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 3e9a03ab-ddb2-4022-a2e5-5dd0ab33247c
+  (symbol 4f6c4e24-e153-43bd-8f61-a733eb4c1e41)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

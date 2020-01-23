@@ -1,0 +1,31 @@
+(librepcb_component e9165414-2db4-4145-93f4-837dc0eb8241
+ (name "~SMART_BASIC_LOGO")
+ (description "created from file---  ./sparkfun/F~SMART_BASIC_LOGO.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant a2b832a9-9f70-4d15-ba89-48a4d874ecb9 (norm "")
+  (name "default")
+  (description "")
+  (gate 84eb877c-f78d-424a-9b0e-63414dc4edc8
+  (symbol ba3d6c89-296d-41b5-91d8-3505ea4491e5)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant edc5b95b-7f4b-42bb-9391-aedfc7fb5e36 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 38cdbd9a-5069-4629-b65f-17f86f67cfce
+  (symbol 046eb988-81bb-433e-9337-127eae04e02f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

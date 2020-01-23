@@ -1,0 +1,31 @@
+(librepcb_component 7766f5da-558f-4808-b1ef-22a7a10e699b
+ (name "~OSHW-LOGOL-COPPER")
+ (description "created from file---  ./sparkfun/F~OSHW-LOGOL-COPPER.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 9a5d56f6-e26f-4bdc-82e2-6056514ba4da (norm "")
+  (name "default")
+  (description "")
+  (gate 5c1934f1-d495-48a2-8eb2-6553378d63db
+  (symbol de4c39c6-b4d7-40f8-a1c6-a84e5d8c40eb)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant b96598c0-b01d-42aa-aaf2-5db1c8c18df8 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 1a992a6b-581d-4e92-bfeb-7372a8f705e8
+  (symbol a6138f41-c62e-4162-9de3-720147b869c1)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

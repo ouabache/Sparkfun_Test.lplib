@@ -1,0 +1,31 @@
+(librepcb_component 3200be34-47e4-456c-87a2-f6bd7b90993d
+ (name "BREADBOARDMINI")
+ (description "created from file---  ./sparkfun_boards/FBREADBOARDMINI.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 0c9109a1-8e13-4f3f-98ee-afeb33ea6695)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 92d09d64-af94-4020-8dea-b678e60e681f (norm "")
+  (name "default")
+  (description "")
+  (gate 1c76ff30-29e0-476e-b168-cf5bd84b6752
+  (symbol 3738cf98-b1d4-40d0-9ca0-dbe75f9b83f4)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant b97de09f-000a-4502-813c-35b17d2459b9 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 09eaf94f-9840-487a-9af3-db9d9c2c1fb8
+  (symbol 141ecaaf-f681-427f-8e97-1ffa5c8fa618)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

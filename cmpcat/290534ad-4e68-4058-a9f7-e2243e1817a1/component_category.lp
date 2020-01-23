@@ -1,0 +1,10 @@
+(librepcb_component_category 290534ad-4e68-4058-a9f7-e2243e1817a1
+ (name "Switches")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:18:29Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

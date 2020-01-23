@@ -1,0 +1,10 @@
+(librepcb_component_category 8c5c2536-b6b6-4c38-813a-359b3620402b
+ (name "Coils")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:13:42Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

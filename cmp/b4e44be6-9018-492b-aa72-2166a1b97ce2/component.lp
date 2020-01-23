@@ -1,0 +1,31 @@
+(librepcb_component b4e44be6-9018-492b-aa72-2166a1b97ce2
+ (name "~FIO_LOGOV2")
+ (description "created from file---  ./sparkfun/F~FIO_LOGOV2.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant ac4da9ff-72e7-46c6-bd22-15727325cd6c (norm "")
+  (name "default")
+  (description "")
+  (gate de0b5db1-d286-4be0-b6b9-6190299bc73c
+  (symbol 40034fed-8ecf-4202-b286-7147dc5bc5c6)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant d251209a-26d5-42eb-83a9-6686893cba46 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 48154af2-7a84-4476-8919-51aaa63bd997
+  (symbol 65d11d25-9b0a-4916-bb06-6a7e9259c3ad)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

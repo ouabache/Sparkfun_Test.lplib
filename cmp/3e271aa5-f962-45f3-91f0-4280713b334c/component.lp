@@ -1,0 +1,31 @@
+(librepcb_component 3e271aa5-f962-45f3-91f0-4280713b334c
+ (name "EM-506_OUTLINE")
+ (description "created from file---  ./sparkfun_gps/FEM-506_OUTLINE.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 5a4910b5-428e-4686-9e3e-f1e238757795)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 91d836ac-efb0-4ee6-a6da-c4b40566046d (norm "")
+  (name "default")
+  (description "")
+  (gate 0a064fc2-ed1f-4aa0-8a53-6e17fec72f8f
+  (symbol 2f19ba17-2bf5-4298-8060-7471ac147e1c)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 2518e3a9-7939-40e0-a933-48bad6d0cf79 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 8f6f3358-d703-43bb-9bdf-5e4316e10317
+  (symbol 980c1d8c-1115-4024-bb43-2ba55d025219)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

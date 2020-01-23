@@ -1,0 +1,10 @@
+(librepcb_component_category f7b9a5a2-8ecf-4120-9859-568e8ef8fc69
+ (name "Microcontroller")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:11:14Z)
+ (deprecated false)
+ (parent cfe79e21-134e-465f-9329-e93f5fe322bb)
+)

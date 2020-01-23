@@ -1,0 +1,31 @@
+(librepcb_component 69b84bcc-d73c-44aa-9652-d9ae279a94e3
+ (name "~OSHW-LOGOS")
+ (description "created from file---  ./sparkfun/F~OSHW-LOGOS.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 30ae4e91-715b-4993-acde-af2cea62f67d (norm "")
+  (name "default")
+  (description "")
+  (gate 49ae28ff-3462-405c-874a-d71ef762f966
+  (symbol c6655b98-194b-4a8d-8da1-e94c633cc820)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant e02b4637-8e60-4499-becc-73320cca9675 (norm "")
+  (name "kicad")
+  (description "")
+  (gate ae7e9728-e7ef-4455-a7e2-cea44cd8ba02
+  (symbol 5d060a74-286a-4425-9dac-496966f12a0e)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

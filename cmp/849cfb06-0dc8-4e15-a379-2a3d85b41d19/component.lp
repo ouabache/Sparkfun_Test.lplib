@@ -1,0 +1,31 @@
+(librepcb_component 849cfb06-0dc8-4e15-a379-2a3d85b41d19
+ (name "~SPECIAL_INSTRUCTIONS-PRODUCTION")
+ (description "created from file---  ./sparkfun/F~SPECIAL_INSTRUCTIONS-PRODUCTION.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant f8c30624-ea67-4b85-ba24-2a49b0b1ea57 (norm "")
+  (name "default")
+  (description "")
+  (gate a33cc7df-d0f9-4273-b455-00a8fcc03483
+  (symbol 0c856493-854f-4b87-bf14-1ffd1d2689eb)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant e7a9643d-e2e3-4bbb-9039-e51d3d522b77 (norm "")
+  (name "kicad")
+  (description "")
+  (gate eb9040b9-d15e-4a26-915f-ec571fe56a79
+  (symbol d1c8df97-fea7-430d-806c-af0a01ae96da)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

@@ -1,0 +1,31 @@
+(librepcb_component 21f096d2-60f4-46f5-84ac-530b5cb3eb4e
+ (name "~ACTOBOTICSSINGLE_DRILL_REF")
+ (description "created from file---  ./sparkfun_hardware/F~ACTOBOTICSSINGLE_DRILL_REF.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 91fd5433-908a-40e8-9af2-a96101757cca)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant b4440e63-7b4b-491d-8063-663e21632363 (norm "")
+  (name "default")
+  (description "")
+  (gate 19bd9b95-454a-428e-81a9-436f94f9f960
+  (symbol 08b6f865-0827-4d34-b7f9-63f502e27b6e)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 50bb9d12-6b4b-482d-a241-71adadcea90c (norm "")
+  (name "kicad")
+  (description "")
+  (gate d057b8f5-d90b-474e-b027-cb415ca8ad9c
+  (symbol 309a4106-5a27-4adf-a414-aac769b5ee1f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

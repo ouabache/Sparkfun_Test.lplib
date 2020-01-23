@@ -1,0 +1,10 @@
+(librepcb_component_category ae965228-d612-4d8a-86db-afc96b987b13
+ (name "Electromechanical")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:16:08Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

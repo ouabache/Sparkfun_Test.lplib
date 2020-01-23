@@ -1,0 +1,31 @@
+(librepcb_component 3050ba98-d547-4124-8fdf-9354decdf4b5
+ (name "~FOUR_LAYER_WARNING")
+ (description "created from file---  ./sparkfun/F~FOUR_LAYER_WARNING.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 7b211e0b-0a3d-4281-b5ee-c49264f55d82 (norm "")
+  (name "default")
+  (description "")
+  (gate 0be473ed-3b2e-4f18-8970-67a704137b0d
+  (symbol 5631730e-b8c8-407b-8b79-8e35a7d439c5)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 45e74629-d4d3-4ae9-a7e1-b93af6a2eaca (norm "")
+  (name "kicad")
+  (description "")
+  (gate cfb93951-9722-4ffb-89b4-3a9d5ab6f2a4
+  (symbol b59c5e84-afb6-4ca0-b7eb-e4978237ab17)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

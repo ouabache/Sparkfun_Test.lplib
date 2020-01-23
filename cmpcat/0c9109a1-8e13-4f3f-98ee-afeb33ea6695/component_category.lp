@@ -1,0 +1,10 @@
+(librepcb_component_category 0c9109a1-8e13-4f3f-98ee-afeb33ea6695
+ (name "Boards")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:12:53Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

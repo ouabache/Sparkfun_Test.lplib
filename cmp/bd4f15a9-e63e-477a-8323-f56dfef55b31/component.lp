@@ -1,0 +1,31 @@
+(librepcb_component bd4f15a9-e63e-477a-8323-f56dfef55b31
+ (name "TRACKBALLMECH")
+ (description "created from file---  ./sparkfun_switches/FTRACKBALLMECH.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 290534ad-4e68-4058-a9f7-e2243e1817a1)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 2fd7a143-270c-425b-a76c-3ca5cdfafc09 (norm "")
+  (name "default")
+  (description "")
+  (gate 6a29decf-03ff-441a-aaef-13f4d4de0f22
+  (symbol 021c9b0b-e69b-43d7-93c9-4cabc0b4c65f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant b80f42c8-c713-471c-8124-ff60e2530035 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 8daf981f-f087-4472-aa24-a173864d5c53
+  (symbol ccf6209f-d357-4c6a-ae25-c1e752bc351c)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

@@ -1,0 +1,31 @@
+(librepcb_component e877bf1b-421e-415a-8a2e-35b5bf5d2c1d
+ (name "~SFE_LOGO_NAME.2_INCH")
+ (description "created from file---  ./sparkfun/F~SFE_LOGO_NAME.2_INCH.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 00e7d9d2-c488-4a03-9cb8-5ed5b7a0e1ed (norm "")
+  (name "default")
+  (description "")
+  (gate 07b610a3-17ea-42ff-a119-afd05a8f61fe
+  (symbol 0e7cda6f-d7c3-4789-8e14-64ab8ed1934a)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 88988b93-0c0c-41f3-89d7-003fe10492f8 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 8dae8d10-7172-4408-b837-8083e829e0f1
+  (symbol 289fe2e2-d9a5-4d86-a888-ee16e3a40bbf)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

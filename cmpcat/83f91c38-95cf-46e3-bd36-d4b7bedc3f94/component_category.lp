@@ -1,0 +1,10 @@
+(librepcb_component_category 83f91c38-95cf-46e3-bd36-d4b7bedc3f94
+ (name "Conversion")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:10:17Z)
+ (deprecated false)
+ (parent cfe79e21-134e-465f-9329-e93f5fe322bb)
+)

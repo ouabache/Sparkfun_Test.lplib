@@ -1,0 +1,31 @@
+(librepcb_component 7cffe9db-eb58-4296-b6e4-22b4be5f060f
+ (name "HEATSINKPRT-9576")
+ (description "created from file---  ./sparkfun_electromechanical/FHEATSINKPRT-9576.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 3479d84c-dfa1-4301-97cc-b486a8003735)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 5fc85a48-b36e-4190-8a63-1bc4672fdb64 (norm "")
+  (name "default")
+  (description "")
+  (gate 987b88e7-0c41-4126-a938-d74c52263b7b
+  (symbol d7605ed6-06a5-4dfd-a61a-4bf8465b4878)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 458e1d11-885e-450c-8a4d-e407541d3df7 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 8494671a-e4d4-48e6-ac7b-d48e47bab778
+  (symbol d175c3d7-ed1c-4f01-9a31-e19414be36e6)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

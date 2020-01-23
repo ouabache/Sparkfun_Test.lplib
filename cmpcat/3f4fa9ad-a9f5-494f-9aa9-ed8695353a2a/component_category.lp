@@ -1,0 +1,10 @@
+(librepcb_component_category 3f4fa9ad-a9f5-494f-9aa9-ed8695353a2a
+ (name "PowerSymbols")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:17:25Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

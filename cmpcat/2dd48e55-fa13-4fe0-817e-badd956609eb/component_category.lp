@@ -1,0 +1,10 @@
+(librepcb_component_category 2dd48e55-fa13-4fe0-817e-badd956609eb
+ (name "Connectors")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:14:02Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

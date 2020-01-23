@@ -1,0 +1,31 @@
+(librepcb_component 969f8bdc-0b95-4137-a4cd-785824bcd3c2
+ (name "~STAND-OFF")
+ (description "created from file---  ./sparkfun_hardware/F~STAND-OFF.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 91fd5433-908a-40e8-9af2-a96101757cca)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 7cef5122-ea62-41d1-864b-4914c519ba08 (norm "")
+  (name "default")
+  (description "")
+  (gate 3305d44c-b18e-47b1-a13a-241eca90e7cf
+  (symbol 7cc92f75-9c22-47e9-8eaf-4c807c3dd700)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 51d66157-ee06-4d35-9b2e-bbbd79e67fab (norm "")
+  (name "kicad")
+  (description "")
+  (gate 48ef8d00-df50-4b71-bfba-ef66528c3ee8
+  (symbol 7997abcf-6a6e-4686-bfac-5c172979de13)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

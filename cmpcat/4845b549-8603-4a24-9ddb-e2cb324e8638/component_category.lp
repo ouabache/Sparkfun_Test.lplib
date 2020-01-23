@@ -1,0 +1,10 @@
+(librepcb_component_category 4845b549-8603-4a24-9ddb-e2cb324e8638
+ (name "Sparkfun")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:07:55Z)
+ (deprecated false)
+ (parent none)
+)

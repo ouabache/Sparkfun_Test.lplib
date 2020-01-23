@@ -1,0 +1,31 @@
+(librepcb_component efb3e93d-4583-4855-a352-fac7b853a5d8
+ (name "~SFE_LUDUSSFE_LUDUS-L")
+ (description "created from file---  ./sparkfun/F~SFE_LUDUSSFE_LUDUS-L.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 92c89a45-f84e-4808-a27d-b820559b9209 (norm "")
+  (name "default")
+  (description "")
+  (gate 751368ea-f900-4ccf-8e77-651e6997d7d4
+  (symbol b45e13cd-a0de-4f98-ba29-10fa4564ced5)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 68167104-5bda-4e63-bab3-02c432117dbf (norm "")
+  (name "kicad")
+  (description "")
+  (gate 706c64b6-800e-4c04-94e1-730e03fc799f
+  (symbol 8504c252-f4fa-48f2-9960-fc49a6962d54)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

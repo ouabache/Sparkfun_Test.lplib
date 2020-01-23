@@ -1,0 +1,10 @@
+(librepcb_component_category cfe79e21-134e-465f-9329-e93f5fe322bb
+ (name "IC")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:08:37Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

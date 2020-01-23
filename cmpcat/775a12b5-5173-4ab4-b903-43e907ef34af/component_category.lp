@@ -1,0 +1,10 @@
+(librepcb_component_category 775a12b5-5173-4ab4-b903-43e907ef34af
+ (name "Resistors")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:17:42Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

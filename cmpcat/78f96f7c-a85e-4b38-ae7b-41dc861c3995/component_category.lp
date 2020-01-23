@@ -1,0 +1,10 @@
+(librepcb_component_category 78f96f7c-a85e-4b38-ae7b-41dc861c3995
+ (name "Capacitors")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:13:13Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

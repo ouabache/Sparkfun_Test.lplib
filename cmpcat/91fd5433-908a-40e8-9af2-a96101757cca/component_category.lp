@@ -1,0 +1,10 @@
+(librepcb_component_category 91fd5433-908a-40e8-9af2-a96101757cca
+ (name "Hardware")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:15:42Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

@@ -1,0 +1,31 @@
+(librepcb_component a8aca749-1328-4cff-b4b5-faaec34c24d1
+ (name "~REDBOT_LOGO")
+ (description "created from file---  ./sparkfun/F~REDBOT_LOGO.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant bdda98f3-6b6e-4042-bfdc-f607be699c09 (norm "")
+  (name "default")
+  (description "")
+  (gate d1b8d4f0-a710-438e-9afb-cfd2ae812a49
+  (symbol c2460a5f-c40f-45bb-9c2f-6f90fefda3c1)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant f4e5c571-017d-45b4-ba9c-dfec6289f615 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 91140799-3540-47f3-a712-bac5cc73993d
+  (symbol 3774caaa-54c0-43bb-ab93-fea8430faac1)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

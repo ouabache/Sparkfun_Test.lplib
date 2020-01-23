@@ -1,0 +1,10 @@
+(librepcb_component_category ba3a4d40-64a8-4a52-83a5-069f4d5d6382
+ (name "Comms")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:09:57Z)
+ (deprecated false)
+ (parent cfe79e21-134e-465f-9329-e93f5fe322bb)
+)

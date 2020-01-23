@@ -1,0 +1,31 @@
+(librepcb_component 07769ebf-0472-4174-829c-c5c040718a12
+ (name "~GESTURESENSE_LOGOSTEXT")
+ (description "created from file---  ./sparkfun/F~GESTURESENSE_LOGOSTEXT.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 1f48d061-2cbc-4b0e-9fba-1ed64eec612d (norm "")
+  (name "default")
+  (description "")
+  (gate 8dcbe661-6e94-4ee7-8d77-dc7f94c58d4c
+  (symbol c2be1fe6-2e24-4ce1-b592-512439f316ae)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant a151429e-e066-4086-9707-15892aa41cb2 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 1aad0d62-5c47-4089-a33c-64c342c060df
+  (symbol 4c25cc60-db7d-4988-a7c3-c1bc1cc9b6da)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

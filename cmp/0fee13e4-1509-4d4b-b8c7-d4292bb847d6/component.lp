@@ -1,0 +1,31 @@
+(librepcb_component 0fee13e4-1509-4d4b-b8c7-d4292bb847d6
+ (name "~STAND-OFFTIGHT")
+ (description "created from file---  ./sparkfun_hardware/F~STAND-OFFTIGHT.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 91fd5433-908a-40e8-9af2-a96101757cca)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant aa25c5c0-ea67-4c4b-85bf-9b9e922f2f53 (norm "")
+  (name "default")
+  (description "")
+  (gate 3b683ec1-68b1-466f-85a1-daf77fc1f5dc
+  (symbol d42f00a0-d854-454c-830e-cdcff521b8f4)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 84eabfae-66a0-4d19-8140-d72941e26551 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 4049f933-770e-470a-bb83-6d8325c523f2
+  (symbol eb50d042-9a9a-4250-a676-1e3a8933e51f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

@@ -1,0 +1,31 @@
+(librepcb_component f29fdafb-95cc-4f36-a4d3-1546ebbe20a5
+ (name "~QTECHKNOW-LOGO-LARGE-SILK")
+ (description "created from file---  ./sparkfun/F~QTECHKNOW-LOGO-LARGE-SILK.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 1c403805-f383-4474-a8ac-bea4fa99e6fb)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 48d65b3d-6104-4b9c-b94b-ec7fde64bbdd (norm "")
+  (name "default")
+  (description "")
+  (gate ad9397ff-dbbf-4030-ae10-472d0813f8dc
+  (symbol da3b0041-880a-4e2e-8d3f-edd9a4f09d63)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 310bf817-7b93-440f-8ba4-ac98e1032190 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 76f60090-6d6d-486d-8322-38ae25d320f2
+  (symbol 8f9d61c2-6c96-4e70-aa18-69b9d7e411ab)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

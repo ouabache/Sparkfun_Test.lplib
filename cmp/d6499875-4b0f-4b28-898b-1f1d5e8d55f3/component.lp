@@ -1,0 +1,31 @@
+(librepcb_component d6499875-4b0f-4b28-898b-1f1d5e8d55f3
+ (name "~ACTOBOTICS9")
+ (description "created from file---  ./sparkfun_hardware/F~ACTOBOTICS9.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "sparkfun")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:00:00Z)
+ (deprecated false)
+ (category 91fd5433-908a-40e8-9af2-a96101757cca)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant ceead29a-9017-4caf-99bf-c7c8a5b8d143 (norm "")
+  (name "default")
+  (description "")
+  (gate 1e7bbc36-f31f-44a0-babc-4277fcb620c3
+  (symbol 6488d215-b494-4aa9-be49-0e7950556061)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 27610ba0-20a4-4696-a945-488eab0ea009 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 409b97f4-7a6c-4c70-a940-e966f063f6a1
+  (symbol 14964ea5-8734-43ec-9751-abf4ad8b044d)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

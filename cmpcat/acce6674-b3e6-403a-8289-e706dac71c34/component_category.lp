@@ -1,0 +1,10 @@
+(librepcb_component_category acce6674-b3e6-403a-8289-e706dac71c34
+ (name "LED")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:17:02Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

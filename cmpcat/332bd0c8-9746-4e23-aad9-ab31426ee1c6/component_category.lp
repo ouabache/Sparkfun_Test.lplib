@@ -1,0 +1,10 @@
+(librepcb_component_category 332bd0c8-9746-4e23-aad9-ab31426ee1c6
+ (name "DiscreteSemi")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:14:29Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 5a4910b5-428e-4686-9e3e-f1e238757795
+ (name "GPS")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T19:15:24Z)
+ (deprecated false)
+ (parent 4845b549-8603-4a24-9ddb-e2cb324e8638)
+)
